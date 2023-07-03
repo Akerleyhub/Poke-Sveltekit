@@ -1,5 +1,5 @@
 # Goal: 
-To try out the latest and greatest web frontend framework. Used the Pokemon API to do this so I didn't require a backend.
+To try out the latest and greatest web frontend framework. Used the Pokemon API to do this so I didn't require a backend. This app just generate 3 random dark or ghost type pokemon. Was going to generate a card game off it but couldn't think of a good game and need to switch gears.
 
 # Thoughts:
 It was pretty interesting, I liked how Sveltekit feels and that the HTML,CSS,JS are all together. I haven't poked at a new framework in awhile so I had forgotten that there's a lot to it. Hoping to do a larger scale project with Svelte in the future.
