@@ -1,5 +1,17 @@
-# create-svelte
+# Goal: 
+To try out the latest and greatest web frontend framework. Used the Pokemon API to do this so I didn't require a backend.
 
+# Thoughts:
+It was pretty interesting, I liked how Sveltekit feels and that the HTML,CSS,JS are all together. I haven't poked at a new framework in awhile so I had forgotten that there's a lot to it. Hoping to do a larger scale project with Svelte in the future.
+
+Documentation used to create project:<br>
+https://pokeapi.co/docs <br>
+https://learn.svelte.dev/tutorial/welcome-to-svelte<br>
+
+To start app: 'npm run dev'
+![Pokemon Page](/Poke_svelte/PokemonApi_svelte/src/lib/images/screenshot.jpg)
+-----Auto Generated Readme Stuff
+# create-svelte
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
 
 ## Creating a project
