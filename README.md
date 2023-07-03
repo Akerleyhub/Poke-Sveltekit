@@ -9,7 +9,7 @@ https://pokeapi.co/docs <br>
 https://learn.svelte.dev/tutorial/welcome-to-svelte<br>
 
 To start app: 'npm run dev'
-![Pokemon Page](/Poke_svelte/PokemonApi_svelte/src/lib/images/screenshot.jpg)
+![Pokemon Page](https://github.com/Akerleyhub/Poke-Sveltekit/blob/master/src/lib/images/Screenshot.png)
 -----Auto Generated Readme Stuff
 # create-svelte
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
