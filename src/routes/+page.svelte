@@ -8,6 +8,7 @@
     $: arrayOfObjects; //this means it's a calculated value, will update like useEffect
 
     async function summon(){
+        arrayOfObjects=[];
         function getRandomInt(max) {
             return Math.floor(Math.random() * max);
         }
